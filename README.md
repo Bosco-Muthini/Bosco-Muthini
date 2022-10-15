@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bosco-Muthini
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django Framework
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...
 
 <!---
